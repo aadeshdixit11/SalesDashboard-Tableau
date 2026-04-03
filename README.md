@@ -45,5 +45,3 @@ The goal of this project is to demonstrate my ability to:
 - **Storytelling**: Clear visualization design for recruiter-friendly presentation  
 
 ---
-
-## 📂 Repository Structure  
