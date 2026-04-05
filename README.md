@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Tableau)
+# Sales Dashboard (Tableau)
 
 ## Overview  
 This project is a **Sales Performance Dashboard** built in **Tableau Public** as part of my practice in **Data & Business Analytics**.  
@@ -11,7 +11,7 @@ The goal of this project is to demonstrate my ability to:
 
 ---
 
-## 🔑 Key Features  
+## Key Features  
 - **KPIs at a glance**:  
   - Revenue: ₹24.91M  
   - Profit: ₹10.46M  
@@ -39,7 +39,7 @@ The goal of this project is to demonstrate my ability to:
 
 ---
 
-## 🛠️ Tools & Skills Demonstrated  
+## Tools & Skills Demonstrated  
 - **Tableau Public**: Dashboard creation, KPI cards, dual-axis charts, filters  
 - **Data Analytics**: Trend analysis, moving averages, profitability insights  
 - **Storytelling**: Clear visualization design for recruiter-friendly presentation  
